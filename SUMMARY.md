@@ -40,7 +40,7 @@
    * [capture picture](capture_picture.md)
    * [using opencv](using_opencv.md)
 * [第六篇 应用篇](chapter6.md)
-   * [weather station](weather_station.md)
+   * [个人气象站](weather_station.md)
    * [video car](video_car.md)
    * [face detection](face_detection.md)
    * [no man driving car](no_man_driving_car.md)
