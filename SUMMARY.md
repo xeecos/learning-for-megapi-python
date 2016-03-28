@@ -12,7 +12,7 @@
    * [ultrasonic sensor](ultrasonic_sensor.md)
    * [linefollower](linefollower.md)
    * [light sensor](light_sensor.md)
-   * sound sensor
+   * [sound sensor](sound_sensor.md)
    * temperature
    * humidity
    * touch sensor
