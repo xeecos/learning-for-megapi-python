@@ -17,4 +17,4 @@
 6. 树莓派将进入启动界面
 7. 选择Raspbian，并点击Install开始安装系统
 8. 等待系统安装完成
-
+![noobs](noobs.jpg)
