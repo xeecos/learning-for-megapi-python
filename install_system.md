@@ -9,6 +9,7 @@
 * 键盘鼠标 x1
 
 步骤：
+
 1. 在任意一台联网的电脑中下载最新的NOOBS文件 https://downloads.raspberrypi.org/NOOBS_latest
 
 2. 通过读卡器解压NOOBS.zip到Micro SD卡根目录下
