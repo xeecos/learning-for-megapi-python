@@ -32,7 +32,7 @@
    * [继电器](relays.md)
    * [快门控制器](shutter.md)
 * [第四章 显示篇](chapter4.md)
-   * [7 segments display](7_segments_display.md)
+   * [数码管](7_segments_display.md)
    * [led matrix](led_matrix.md)
    * [RGB LED](rgb_led.md)
    * [LCD](lcd.md)
