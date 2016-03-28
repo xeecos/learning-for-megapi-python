@@ -20,7 +20,7 @@
    * [flame sensor](flame_sensor.md)
    * [potentiometer](potentiometer.md)
    * [joystick](joystick.md)
-   * gyro
+   * [gyro](gyro.md)
    * compass
 * [第三章 电机驱动篇](chapter3.md)
    * [servo](servo.md)
