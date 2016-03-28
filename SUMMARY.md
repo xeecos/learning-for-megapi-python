@@ -31,7 +31,7 @@
    * [shutter](shutter.md)
 * [第四章 显示篇](chapter4.md)
    * 7 segments display
-   * led matrix
+   * [led matrix](led_matrix.md)
    * [RGB LED](rgb_led.md)
    * [LCD](lcd.md)
 * [第五章 摄像头篇](chapter5.md)
