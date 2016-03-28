@@ -16,7 +16,7 @@
    * [temperature](temperature.md)
    * [humidity](humidity.md)
    * [touch sensor](touch_sensor.md)
-   * gas sensor
+   * [gas sensor](gas_sensor.md)
    * flame sensor
    * potentiometer
    * joystick
