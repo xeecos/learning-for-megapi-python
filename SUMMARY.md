@@ -38,7 +38,7 @@
    * [capture picture](capture_picture.md)
    * [using opencv](using_opencv.md)
 * [第六篇 应用篇](chapter6.md)
-   * weather station
+   * [weather station](weather_station.md)
    * video car
    * face detection
    * no man driving car
