@@ -9,7 +9,7 @@
    * [准备Python环境](ready_for_python.md)
    * [安装硬件](prepare_for_hardware.md)
 * [第二章 传感器篇](chapter2.md)
-   * [ultrasonic sensor](ultrasonic_sensor.md)
+   * [超声波测距传感器](ultrasonic_sensor.md)
    * [linefollower](linefollower.md)
    * [light sensor](light_sensor.md)
    * [sound sensor](sound_sensor.md)
