@@ -1,2 +1,2 @@
-# install system
+# 安装操作系统
 
