@@ -1,6 +1,7 @@
 # 安装操作系统
 
-准备材料：
+
+### 准备材料：
 
 * 树莓派2/3 B型 x1
 
@@ -14,7 +15,8 @@
 
 * 键盘鼠标 x1
 
-步骤：
+
+### 步骤：
 
 1. 在任意一台联网的电脑中下载最新的NOOBS文件 https://downloads.raspberrypi.org/NOOBS_latest
 
