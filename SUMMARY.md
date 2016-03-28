@@ -27,7 +27,7 @@
 * [第三章 电机驱动篇](chapter3.md)
    * [舵机](servo.md)
    * [直流电机](dc_motor.md)
-   * [encoder dc motor](encoder_dc_motor.md)
+   * [直流编码电机](encoder_dc_motor.md)
    * [stepper motor](stepper_motor.md)
    * [relays](relays.md)
    * [shutter](shutter.md)
