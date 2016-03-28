@@ -9,6 +9,7 @@
    * [准备Python环境](ready_for_python.md)
    * [安装硬件](prepare_for_hardware.md)
 * [第二章 传感器篇](chapter2.md)
+   * ultrasonic sensor
 * [第三章 电机驱动篇](chapter3.md)
 * [第四章 显示篇](chapter4.md)
 * [第五章 摄像头篇](chapter5.md)
