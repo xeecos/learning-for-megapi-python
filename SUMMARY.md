@@ -32,6 +32,7 @@
 * [第四章 显示篇](chapter4.md)
    * 7 segments display
    * led matrix
+   * RGB LED
 * [第五章 摄像头篇](chapter5.md)
 * [第六篇 应用篇](chapter6.md)
 
