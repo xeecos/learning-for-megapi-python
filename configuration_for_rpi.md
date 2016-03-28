@@ -5,7 +5,7 @@
 ```
 sudo apt-get install ttf-wqy-microhei scim-pinyin
 ```
-从``Preferences```打开```Raspberry Pi Configuration```, 点击```Set Locale```为```zh-cn```，重启树莓派。
+从```Preferences```打开```Raspberry Pi Configuration```, 点击```Set Locale```为```zh-cn```，重启树莓派。
 
 2.安装Git
 ```
