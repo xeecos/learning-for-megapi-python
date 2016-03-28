@@ -1,11 +1,17 @@
 # 安装操作系统
 
 准备材料：
+
 * 树莓派2/3 B型 x1
+
 * 不小于8G容量的micro sd卡 x1
+
 * 支持HDMI的显示器 x1
+
 * Micro USB线 x1
+
 * Micro SD读卡器 x1
+
 * 键盘鼠标 x1
 
 步骤：
