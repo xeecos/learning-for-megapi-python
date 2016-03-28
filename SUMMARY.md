@@ -11,7 +11,7 @@
 * [第二章 传感器篇](chapter2.md)
    * [ultrasonic sensor](ultrasonic_sensor.md)
    * [linefollower](linefollower.md)
-   * light sensor
+   * [light sensor](light_sensor.md)
    * sound sensor
    * temperature
    * humidity
