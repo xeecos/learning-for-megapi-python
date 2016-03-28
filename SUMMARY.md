@@ -25,7 +25,7 @@
        * [摇杆](joystick.md)
        * [测量角度](measure_angle.md)
 * [第三章 电机驱动篇](chapter3.md)
-   * [servo](servo.md)
+   * [舵机](servo.md)
    * [dc motor](dc_motor.md)
    * [encoder dc motor](encoder_dc_motor.md)
    * [stepper motor](stepper_motor.md)
