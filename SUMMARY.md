@@ -41,6 +41,6 @@
    * [weather station](weather_station.md)
    * [video car](video_car.md)
    * [face detection](face_detection.md)
-   * no man driving car
+   * [no man driving car](no_man_driving_car.md)
    * sketch plotter
 
