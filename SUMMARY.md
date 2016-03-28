@@ -44,5 +44,5 @@
    * [视频小车](video_car.md)
    * [人脸跟踪](face_detection.md)
    * [无人驾驶车](no_man_driving_car.md)
-   * [sketch plotter](sketch_plotter.md)
+   * [素描绘图仪](sketch_plotter.md)
 
