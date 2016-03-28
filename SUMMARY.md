@@ -21,7 +21,7 @@
    * [potentiometer](potentiometer.md)
    * [joystick](joystick.md)
    * [gyro](gyro.md)
-   * compass
+   * [compass](compass.md)
 * [第三章 电机驱动篇](chapter3.md)
    * [servo](servo.md)
    * dc motor
