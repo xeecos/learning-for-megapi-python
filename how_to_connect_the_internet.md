@@ -23,3 +23,4 @@ sudo apt-get install firmware-realtek
 ```
 sudo dpkg -i path/firmware-realtek_0.43_all.deb```
 剩下的工作就是在网络里设置WiFi了。
+已经联网的树莓派除了可以通过外接屏幕和键盘鼠标操作，也可以远程SSH登录，ssh账号为```pi```，默认密码为```raspberry```
