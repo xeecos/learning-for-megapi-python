@@ -19,6 +19,7 @@
    * [gyro](gyro.md)
        * 测量姿态
    * 测量姿态
+       * ss
    * [gas sensor](gas_sensor.md)
    * [flame sensor](flame_sensor.md)
    * [potentiometer](potentiometer.md)
