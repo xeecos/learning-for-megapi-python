@@ -21,7 +21,7 @@
    * [测量姿态](measure_attitude.md)
        * [指南针](compass.md)
        * [陀螺仪](gyro.md)
-       * [potentiometer](potentiometer.md)
+       * [电位器](potentiometer.md)
        * [joystick](joystick.md)
        * [测量角度](measure_angle.md)
 * [第三章 电机驱动篇](chapter3.md)
