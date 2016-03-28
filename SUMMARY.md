@@ -11,7 +11,6 @@
 * [第二章 传感器篇](chapter2.md)
    * [测量物理世界](measure_objects.md)
        * [检测障碍物距离](ultrasonic_sensor.md)
-       * [检测颜色](linefollower.md)
        * [检测光线强度](light_sensor.md)
        * [检测声音强度](sound_sensor.md)
        * [检测火焰](flame_sensor.md)
