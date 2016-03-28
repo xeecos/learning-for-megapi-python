@@ -19,7 +19,7 @@
        * [检测触摸](touch_sensor.md)
        * [温度和湿度](temperature.md)
    * [测量姿态](measure_attitude.md)
-       * [compass](compass.md)
+       * [指南针](compass.md)
        * [gyro](gyro.md)
        * [potentiometer](potentiometer.md)
        * [joystick](joystick.md)
