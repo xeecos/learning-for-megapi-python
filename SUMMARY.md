@@ -14,6 +14,7 @@
        * [检测颜色](linefollower.md)
        * [检测光线强度](light_sensor.md)
        * [检测声音强度](sound_sensor.md)
+       * [检测火焰](flame_sensor.md)
        * [温度和湿度](temperature.md)
    * 测量姿态
        * [compass](compass.md)
@@ -21,7 +22,6 @@
        * [测量角度](measure_angle.md)
    * [gas sensor](gas_sensor.md)
    * [touch sensor](touch_sensor.md)
-   * [检测火焰](flame_sensor.md)
    * [potentiometer](potentiometer.md)
    * [joystick](joystick.md)
 * [第三章 电机驱动篇](chapter3.md)
