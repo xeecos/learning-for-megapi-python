@@ -33,7 +33,7 @@
    * [快门控制器](shutter.md)
 * [第四章 显示篇](chapter4.md)
    * [数码管](7_segments_display.md)
-   * [led matrix](led_matrix.md)
+   * [LED矩阵屏](led_matrix.md)
    * [RGB LED](rgb_led.md)
    * [LCD](lcd.md)
 * [第五章 摄像头篇](chapter5.md)
