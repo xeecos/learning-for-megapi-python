@@ -24,7 +24,7 @@
    * [compass](compass.md)
 * [第三章 电机驱动篇](chapter3.md)
    * [servo](servo.md)
-   * dc motor
+   * [dc motor](dc_motor.md)
    * encoder dc motor
    * stepper motor
    * relays
