@@ -7,4 +7,5 @@
    * [如何联网](how_to_connect_the_internet.md)
    * [配置常用工具](configuration_for_rpi.md)
    * [准备Python环境](ready_for_python.md)
+   * 安装硬件
 
