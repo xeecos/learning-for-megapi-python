@@ -25,7 +25,7 @@ sudo apt-get update && sudo apt-get install git python-opencv python-all-dev lib
 	  * **dcMotorRun**( port, speed )
 	* 舵机
 	  * **servoRun**( port, slot, angle )
-	  * **servoPinRun**( pin, angle )
+	  * **servoRunAtPin**( pin, angle )
 	* 编码电机
 	  * **encoderMotorRun**( port, speed )
 	  * **encoderMotorMove**( port, speed, distance, **def** onFinish )
