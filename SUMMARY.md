@@ -41,7 +41,7 @@
    * [using opencv](using_opencv.md)
 * [第六篇 应用篇](chapter6.md)
    * [个人气象站](weather_station.md)
-   * [video car](video_car.md)
+   * [视频小车](video_car.md)
    * [face detection](face_detection.md)
    * [no man driving car](no_man_driving_car.md)
    * [sketch plotter](sketch_plotter.md)
