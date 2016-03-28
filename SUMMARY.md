@@ -36,5 +36,6 @@
    * LCD
 * [第五章 摄像头篇](chapter5.md)
    * capture picture
+   * using opencv
 * [第六篇 应用篇](chapter6.md)
 
