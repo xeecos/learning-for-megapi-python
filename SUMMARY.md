@@ -16,7 +16,7 @@
        * [检测声音强度](sound_sensor.md)
        * [检测火焰](flame_sensor.md)
        * [检测气体](gas_sensor.md)
-       * [touch sensor](touch_sensor.md)
+       * [检测触摸](touch_sensor.md)
        * [温度和湿度](temperature.md)
    * [测量姿态](measure_attitude.md)
        * [compass](compass.md)
