@@ -30,7 +30,7 @@
    * [直流编码电机](encoder_dc_motor.md)
    * [步进电机](stepper_motor.md)
    * [继电器](relays.md)
-   * [shutter](shutter.md)
+   * [快门控制器](shutter.md)
 * [第四章 显示篇](chapter4.md)
    * [7 segments display](7_segments_display.md)
    * [led matrix](led_matrix.md)
