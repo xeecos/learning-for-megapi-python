@@ -35,7 +35,7 @@
    * [RGB LED](rgb_led.md)
    * [LCD](lcd.md)
 * [第五章 摄像头篇](chapter5.md)
-   * capture picture
+   * [capture picture](capture_picture.md)
    * using opencv
 * [第六篇 应用篇](chapter6.md)
    * weather station
