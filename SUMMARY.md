@@ -29,7 +29,7 @@
    * [直流电机](dc_motor.md)
    * [直流编码电机](encoder_dc_motor.md)
    * [步进电机](stepper_motor.md)
-   * [relays](relays.md)
+   * [继电器](relays.md)
    * [shutter](shutter.md)
 * [第四章 显示篇](chapter4.md)
    * [7 segments display](7_segments_display.md)
