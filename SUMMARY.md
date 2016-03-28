@@ -16,13 +16,13 @@
        * [检测声音强度](sound_sensor.md)
        * [温度和湿度](temperature.md)
    * [touch sensor](touch_sensor.md)
+   * [gyro](gyro.md)
+       * 测量姿态
    * 测量姿态
    * [gas sensor](gas_sensor.md)
    * [flame sensor](flame_sensor.md)
    * [potentiometer](potentiometer.md)
    * [joystick](joystick.md)
-   * [gyro](gyro.md)
-       * 测量姿态
    * [compass](compass.md)
 * [第三章 电机驱动篇](chapter3.md)
    * [servo](servo.md)
