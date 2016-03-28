@@ -40,7 +40,7 @@
 * [第六篇 应用篇](chapter6.md)
    * [weather station](weather_station.md)
    * [video car](video_car.md)
-   * face detection
+   * [face detection](face_detection.md)
    * no man driving car
    * sketch plotter
 
