@@ -39,4 +39,5 @@
    * using opencv
 * [第六篇 应用篇](chapter6.md)
    * weather station
+   * video car
 
