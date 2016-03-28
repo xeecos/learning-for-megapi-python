@@ -8,24 +8,25 @@ sudo apt-get update && sudo apt-get install git python-opencv python-all-dev lib
 用户可以访问```https://github.com/makeblock-official/PythonForMegaPi``` 找到MegaPi相关源代码。
 
 
-### Python API
+### Python 接口
 
- * Start
+ * 开始
  	* **MegaPi**()
  	* **start**()
  	
- * GPIO
+ * 通用输入输出
  	* **digitalWrite**( pin, level )
  	* **pwmWrite**( pin, pwm )
  	* **digitalRead**( pin, **def** onResult )
  	* **analogRead**( pin, **def** onResult )
  	
- * Motion
-	* DC Motor
+ * 运动类
+	* 直流电机
 	  * **dcMotorRun**( port, speed )
-	* Servo Motor
+	* 舵机
 	  * **servoRun**( port, slot, angle )
-	* Encoder Motor
+	  * **servoPinRun**( pin, angle )
+	* 编码电机
 	  * **encoderMotorRun**( port, speed )
 	  * **encoderMotorMove**( port, speed, distance, **def** onFinish )
 	  * **encoderMotorMoveTo**( port, speed, position, **def** onFinish )
