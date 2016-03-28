@@ -8,4 +8,5 @@
    * [配置常用工具](configuration_for_rpi.md)
    * [准备Python环境](ready_for_python.md)
    * [安装硬件](prepare_for_hardware.md)
+* chapter2
 
