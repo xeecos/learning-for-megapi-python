@@ -28,7 +28,7 @@
    * [encoder dc motor](encoder_dc_motor.md)
    * [stepper motor](stepper_motor.md)
    * [relays](relays.md)
-   * shutter
+   * [shutter](shutter.md)
 * [第四章 显示篇](chapter4.md)
    * 7 segments display
    * led matrix
