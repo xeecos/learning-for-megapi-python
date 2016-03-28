@@ -10,7 +10,7 @@
    * [安装硬件](prepare_for_hardware.md)
 * [第二章 传感器篇](chapter2.md)
 * [第三章 电机驱动篇](chapter3.md)
-* [chapter4](chapter4.md)
+* [第四章 显示篇](chapter4.md)
 * [chapter5](chapter5.md)
 * [chapter6](chapter6.md)
 
