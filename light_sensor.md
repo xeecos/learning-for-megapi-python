@@ -1,2 +1,2 @@
-# light sensor
+# 检测光线强度
 
