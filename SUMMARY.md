@@ -12,8 +12,8 @@
    * [测量物理世界](measure_objects.md)
        * [超声波测距传感器](ultrasonic_sensor.md)
        * [linefollower](linefollower.md)
+       * [light sensor](light_sensor.md)
        * s
-   * [light sensor](light_sensor.md)
    * [sound sensor](sound_sensor.md)
    * [temperature](temperature.md)
    * [humidity](humidity.md)
