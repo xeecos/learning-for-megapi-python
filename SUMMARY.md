@@ -13,7 +13,7 @@
    * [linefollower](linefollower.md)
    * [light sensor](light_sensor.md)
    * [sound sensor](sound_sensor.md)
-   * temperature
+   * [temperature](temperature.md)
    * humidity
    * touch sensor
    * gas sensor
