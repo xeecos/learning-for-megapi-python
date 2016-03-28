@@ -27,6 +27,7 @@
    * dc motor
    * encoder dc motor
    * stepper motor
+   * relays
 * [第四章 显示篇](chapter4.md)
 * [第五章 摄像头篇](chapter5.md)
 * [第六篇 应用篇](chapter6.md)
