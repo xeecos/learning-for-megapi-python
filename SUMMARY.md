@@ -18,7 +18,6 @@
    * [touch sensor](touch_sensor.md)
    * 测量姿态
        * [gyro](gyro.md)
-       * ss
    * [gas sensor](gas_sensor.md)
    * [flame sensor](flame_sensor.md)
    * [potentiometer](potentiometer.md)
