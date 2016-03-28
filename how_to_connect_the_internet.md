@@ -1,2 +1,2 @@
-# how to connect the internet
+# 如何联网
 
