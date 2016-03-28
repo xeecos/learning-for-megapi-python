@@ -23,4 +23,8 @@ sudo apt-get install git
 sudo apt-get update
 sudo apt-get install chromium-browser chromium-browser-l10n
 ```
-4.
+4.系统自带Text Editor功能比较简单，可以自行安装gedit、Vim和Emacs
+```
+sudo apt-get install gedit
+sudo apt-get install gedit-plugins
+```
