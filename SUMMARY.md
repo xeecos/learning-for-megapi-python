@@ -43,6 +43,6 @@
    * [个人气象站](weather_station.md)
    * [视频小车](video_car.md)
    * [人脸跟踪](face_detection.md)
-   * [no man driving car](no_man_driving_car.md)
+   * [无人驾驶车](no_man_driving_car.md)
    * [sketch plotter](sketch_plotter.md)
 
