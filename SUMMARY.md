@@ -21,7 +21,7 @@
        * [测量角度](measure_angle.md)
    * [gas sensor](gas_sensor.md)
    * [touch sensor](touch_sensor.md)
-   * [flame sensor](flame_sensor.md)
+   * [检测火焰](flame_sensor.md)
    * [potentiometer](potentiometer.md)
    * [joystick](joystick.md)
 * [第三章 电机驱动篇](chapter3.md)
