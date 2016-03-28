@@ -26,7 +26,7 @@
    * [servo](servo.md)
    * [dc motor](dc_motor.md)
    * [encoder dc motor](encoder_dc_motor.md)
-   * stepper motor
+   * [stepper motor](stepper_motor.md)
    * relays
    * shutter
 * [第四章 显示篇](chapter4.md)
