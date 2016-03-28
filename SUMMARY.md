@@ -35,7 +35,7 @@
    * [数码管](7_segments_display.md)
    * [LED矩阵屏](led_matrix.md)
    * [RGB LED](rgb_led.md)
-   * [LCD](lcd.md)
+   * [串口液晶屏](lcd.md)
 * [第五章 摄像头篇](chapter5.md)
    * [capture picture](capture_picture.md)
    * [using opencv](using_opencv.md)
