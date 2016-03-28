@@ -1,2 +1,2 @@
-# flame sensor
+# 检测火焰
 
