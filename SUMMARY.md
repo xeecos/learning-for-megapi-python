@@ -15,7 +15,6 @@
        * [检测光线强度](light_sensor.md)
        * [检测声音强度](sound_sensor.md)
        * [温度和湿度](temperature.md)
-       * [humidity](humidity.md)
    * [touch sensor](touch_sensor.md)
    * [gas sensor](gas_sensor.md)
    * [flame sensor](flame_sensor.md)
