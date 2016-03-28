@@ -33,7 +33,7 @@
    * 7 segments display
    * led matrix
    * RGB LED
-   * LCD
+   * [LCD](lcd.md)
 * [第五章 摄像头篇](chapter5.md)
    * capture picture
    * using opencv
