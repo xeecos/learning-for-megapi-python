@@ -22,7 +22,7 @@
        * [指南针](compass.md)
        * [陀螺仪](gyro.md)
        * [电位器](potentiometer.md)
-       * [joystick](joystick.md)
+       * [摇杆](joystick.md)
        * [测量角度](measure_angle.md)
 * [第三章 电机驱动篇](chapter3.md)
    * [servo](servo.md)
