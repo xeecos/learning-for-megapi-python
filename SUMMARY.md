@@ -42,4 +42,5 @@
    * video car
    * face detection
    * no man driving car
+   * sketch plotter
 
