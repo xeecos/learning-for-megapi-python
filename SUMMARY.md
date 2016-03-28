@@ -6,4 +6,5 @@
    * [安装操作系统](install_system.md)
    * [如何联网](how_to_connect_the_internet.md)
    * [配置常用工具](configuration_for_rpi.md)
+   * ready for python
 
