@@ -1,2 +1,2 @@
-# touch sensor
+# 触摸传感器
 
