@@ -19,6 +19,7 @@
    * gas sensor
    * flame sensor
    * potentiometer
+   * joystick
 * [第三章 电机驱动篇](chapter3.md)
 * [第四章 显示篇](chapter4.md)
 * [第五章 摄像头篇](chapter5.md)
