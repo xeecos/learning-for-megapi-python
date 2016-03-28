@@ -1,3 +1,10 @@
 # 基于MegaPi树莓派机器人开发手册 - Python篇
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+### 第一章 准备工作
+1. 准备树莓派
+2. 安装操作系统
+3. 如何联网
+4. 配置常用工具
+5. 准备Python环境
+6. 安装硬件
