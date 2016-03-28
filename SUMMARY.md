@@ -37,7 +37,7 @@
    * [RGB LED](rgb_led.md)
    * [串口液晶屏](lcd.md)
 * [第五章 摄像头篇](chapter5.md)
-   * [capture picture](capture_picture.md)
+   * [捕捉图像](capture_picture.md)
    * [使用OpenCV](using_opencv.md)
 * [第六篇 应用篇](chapter6.md)
    * [个人气象站](weather_station.md)
