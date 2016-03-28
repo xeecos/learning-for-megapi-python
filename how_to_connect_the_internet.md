@@ -5,8 +5,9 @@
 
 对于外接的USB WiFi模块可能还需要安装驱动。以Realtek品牌的WiFi模块为例。
 
+以下指令在终端里执行
+
 1.查看Wifi网卡是否为Realtek：
-以下指令在终端里执行，
 ```
 dmesg | grep usb
 ```
