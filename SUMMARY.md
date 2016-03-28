@@ -20,7 +20,7 @@
        * [温度和湿度](temperature.md)
    * [测量姿态](measure_attitude.md)
        * [指南针](compass.md)
-       * [gyro](gyro.md)
+       * [陀螺仪](gyro.md)
        * [potentiometer](potentiometer.md)
        * [joystick](joystick.md)
        * [测量角度](measure_angle.md)
