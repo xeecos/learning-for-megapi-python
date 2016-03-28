@@ -18,7 +18,7 @@
    * [touch sensor](touch_sensor.md)
    * [gas sensor](gas_sensor.md)
    * [flame sensor](flame_sensor.md)
-   * potentiometer
+   * [potentiometer](potentiometer.md)
    * joystick
    * gyro
    * compass
