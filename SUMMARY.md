@@ -12,7 +12,7 @@
    * [测量物理世界](measure_objects.md)
        * [检测障碍物距离](ultrasonic_sensor.md)
        * [检测颜色](linefollower.md)
-       * [light sensor](light_sensor.md)
+       * [检测光线强弱](light_sensor.md)
        * [sound sensor](sound_sensor.md)
        * [temperature](temperature.md)
        * [humidity](humidity.md)
