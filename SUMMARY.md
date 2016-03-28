@@ -25,7 +25,7 @@
 * [第三章 电机驱动篇](chapter3.md)
    * [servo](servo.md)
    * [dc motor](dc_motor.md)
-   * encoder dc motor
+   * [encoder dc motor](encoder_dc_motor.md)
    * stepper motor
    * relays
    * shutter
