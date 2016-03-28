@@ -39,7 +39,7 @@
    * [using opencv](using_opencv.md)
 * [第六篇 应用篇](chapter6.md)
    * [weather station](weather_station.md)
-   * video car
+   * [video car](video_car.md)
    * face detection
    * no man driving car
    * sketch plotter
