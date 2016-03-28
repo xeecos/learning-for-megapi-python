@@ -1,2 +1,2 @@
-# sound sensor
+# 检测声音强度
 
