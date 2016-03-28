@@ -30,61 +30,60 @@ sudo apt-get update && sudo apt-get install git python-opencv python-all-dev lib
 	  * **encoderMotorRun**( port, speed )
 	  * **encoderMotorMove**( port, speed, distance, **def** onFinish )
 	  * **encoderMotorMoveTo**( port, speed, position, **def** onFinish )
-	* Stepper Motor
+	* 步进电机
 	  * **stepperMotorSetting**( port, microsteps, acceleration )
 	  * **stepperMotorRun**( port, speed )
 	  * **stepperMotorMove**( port, speed, distance, **def** onFinish )
 	  * **stepperMotorMoveTo**( port, speed, position, **def** onFinish )
 	  
- * Sensors
- 	* Ultrasonic Sensor
+ * 传感器类
+ 	* 超声波测距传感器
  	  * **ultrasonicSensorRead** ( port, **def** onResult ) 
- 	* LineFollow Sensor
+ 	* 巡线传感器
  	  * **lineFollowerRead** ( port, **def** onResult ) 
- 	* Light Sensor
+ 	* 光线传感器
  	  * **lightSensorRead** ( port, **def** onResult ) 
- 	* Sound Sensor
+ 	* 声音传感器
  	  * **soundSensorRead** ( port, **def** onResult ) 
- 	* Temperature Sensor
+ 	* 温度传感器
  	  * **temperatureRead** ( port, **def** onResult ) 
- 	* PIR Motion Sensor
+ 	* 人体热释电传感器
  	  * **pirMotionSensorRead** ( port, **def** onResult ) 
- 	* Touch Sensor
+ 	* 触摸传感器
  	  * **touchSensorRead** ( port, **def** onResult ) 
- 	* LimitSwitch
+ 	* 限位开关
  	  * **limitSwitchRead** ( port, slot, **def** onResult ) 
- 	* Humiture Sensor
+ 	* 湿度传感器
  	  * **humitureSensorRead** ( port, type, **def** onResult ) 
- 	* Gas Sensor
+ 	* 瓦斯传感器
  	  * **gasSensorRead** ( port, **def** onResult )
- 	* Flame Sensor
+ 	* 火焰传感器
  	  * **flameSensorRead** ( port, **def** onResult ) 
- 	* Button
+ 	* 按钮
  	  * **buttonRead** ( port, **def** onResult ) 
- 	* Potentiometer
+ 	* 电位器
  	  * **potentiometerRead** ( port, **def** onResult )
- 	* Joystick
+ 	* 摇杆
  	  * **joystickRead** ( port, axis, **def** onResult )
- 	* 3-Axis Accelerometer and Gyro Sensor
+ 	* 3轴加速度计和陀螺仪
  	  * **gyroRead** ( axis, **def** onResult )
- 	* Compass
+ 	* 指南针
  	  * **compassRead** ( **def** onResult )
  	
- * Display
+ * 显示类
  	* RGB Led
- 	  * **rgbLedSetColor** ( port, slot, index, r, g, b )
- 	  * **rgbLedShow** ( port, slot )
  	  * **rgbLedDisplay** ( port, slot, index, r, g, b )
- 	* 7-segment Display
+ 	  * **rgbLedShow** ( port, slot )
+ 	* 数码管
  	  * **sevenSegmentDisplay** ( port, value )
- 	* Led Matrix Display
+ 	* Led矩阵屏
  	  * **ledMatrixDisplayMessage** ( port, x, y, msg )
  	  * **ledMatrixDisplayRaw** ( port, buffer )
- 	* Serial LCD Display
+ 	* 串口液晶屏
  	  * **lcdDisplay** ( string )
  	  
- * Others
- 	* DSLR Shutter
+ * 其它
+ 	* 快门控制器
 	  * **shutterOn** ( port )
 	  * **shutterOff** ( port )
 	  * **focusOn** ( port )
