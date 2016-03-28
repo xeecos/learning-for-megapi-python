@@ -10,7 +10,7 @@
    * [安装硬件](prepare_for_hardware.md)
 * [第二章 传感器篇](chapter2.md)
    * [ultrasonic sensor](ultrasonic_sensor.md)
-   * linefollower
+   * [linefollower](linefollower.md)
    * light sensor
    * sound sensor
    * temperature
