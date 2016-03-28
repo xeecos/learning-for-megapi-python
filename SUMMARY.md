@@ -10,7 +10,7 @@
    * [安装硬件](prepare_for_hardware.md)
 * [第二章 传感器篇](chapter2.md)
    * [测量物理世界](measure_objects.md)
-       * [超声波测距传感器](ultrasonic_sensor.md)
+       * [检测障碍物距离](ultrasonic_sensor.md)
        * [linefollower](linefollower.md)
        * [light sensor](light_sensor.md)
        * [sound sensor](sound_sensor.md)
