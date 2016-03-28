@@ -15,7 +15,7 @@
    * [sound sensor](sound_sensor.md)
    * [temperature](temperature.md)
    * [humidity](humidity.md)
-   * touch sensor
+   * [touch sensor](touch_sensor.md)
    * gas sensor
    * flame sensor
    * potentiometer
