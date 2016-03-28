@@ -16,9 +16,9 @@
        * [检测声音强度](sound_sensor.md)
        * [温度和湿度](temperature.md)
    * [touch sensor](touch_sensor.md)
-   * [gyro](gyro.md)
-       * 测量姿态
    * 测量姿态
+       * [gyro](gyro.md)
+           * 测量姿态
        * ss
    * [gas sensor](gas_sensor.md)
    * [flame sensor](flame_sensor.md)
