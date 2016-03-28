@@ -30,7 +30,7 @@
    * [relays](relays.md)
    * [shutter](shutter.md)
 * [第四章 显示篇](chapter4.md)
-   * 7 segments display
+   * [7 segments display](7_segments_display.md)
    * [led matrix](led_matrix.md)
    * [RGB LED](rgb_led.md)
    * [LCD](lcd.md)
