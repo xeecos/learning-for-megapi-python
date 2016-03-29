@@ -36,7 +36,7 @@
    * [RGB LED](rgb_led.md)
    * [串口液晶屏](lcd.md)
 * [第五章 扩展篇](chapter5.md)
-   * 数据显示与存储
+   * [数据显示与存储](data_storage_and_display.md)
    * [使用网络服务](internet_service.md)
    * [捕捉图像](capture_picture.md)
    * [使用OpenCV](using_opencv.md)
