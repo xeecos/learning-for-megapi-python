@@ -38,6 +38,7 @@
 * [第五章 扩展篇](chapter5.md)
    * [捕捉图像](capture_picture.md)
    * [使用OpenCV](using_opencv.md)
+   * 使用网络服务
 * [第六篇 应用篇](chapter6.md)
    * [个人气象站](weather_station.md)
    * [视频小车](video_car.md)
