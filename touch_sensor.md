@@ -7,6 +7,16 @@
 
 ### Python 代码
 ```
+from megapi import *
 
+def onRead(v):
+	print "touched:"+str(v);
+
+bot = MegaPi()
+bot.start()
+port = 6
+while 1:
+    sleep(0.1)
+    bot.touchSensorRead(port,onRead)
 ```
 
