@@ -7,7 +7,17 @@
 
 ### Python 代码
 ```
+from megapi import *
 
+def onRead(v):
+	print "flame level:"+str(v);
+
+bot = MegaPi()
+bot.start()
+port = 6
+while 1:
+    sleep(0.1)
+    bot.flameSensorRead(port,onRead)
 ```
 
 ### 运行结果
