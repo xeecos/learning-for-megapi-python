@@ -63,6 +63,8 @@ sudo apt-get update && sudo apt-get install git python-opencv python-all-dev lib
  	  * **buttonRead** ( port, **def** onResult ) 
  	* 电位器
  	  * **potentiometerRead** ( port, **def** onResult )
+ 	* 角度传感器
+ 	  * **angularSensorRead** ( port, slot, **def** onResult )
  	* 摇杆
  	  * **joystickRead** ( port, axis, **def** onResult )
  	* 3轴加速度计和陀螺仪
