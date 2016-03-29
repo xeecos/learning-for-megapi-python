@@ -12,17 +12,17 @@
 ### Python代码
 ```
 from megapi import *
+bot = MegaPi()
+bot.start()
+port = 6
 
 def onRead(v):
 	print "distance:"+str(v)+" cm";
+    
+while 1:
+    sleep(0.1);
+    bot.ultrasonicSensorRead(port,onRead);
 
-if __name__ == '__main__':
-	bot = MegaPi()
-	bot.start()
-    port = 6
-	while 1:
-		sleep(0.1);
-		bot.ultrasonicSensorRead(port,onRead);
 ```
 
 ### 运行结果
