@@ -12,6 +12,7 @@
 ### Python代码
 ```
 from megapi import *
+
 bot = MegaPi()
 bot.start()
 port = 6
