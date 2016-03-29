@@ -12,12 +12,13 @@
 from megapi import *
 
 def onRead(v):
-	print "line:"+str(v);
+	print "line:"+str(v)
 
 bot = MegaPi()
 bot.start()
+port = 6
 while 1:
-    sleep(0.1);
-    bot.lineFollowerRead(6,onRead);
+    sleep(0.1)
+    bot.lineFollowerRead(port,onRead)
 ```
 
