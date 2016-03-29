@@ -4,3 +4,26 @@
 
 为了使移动机器人能自动避障行走，就必须装备测距系统，以使其及时获取距障碍物的距离和方向。
 
+
+### 超声波测距传感器
+
+![ultrasonic](ultrasonic.jpg)
+
+### Python代码
+```
+from megapi import *
+
+def onRead(v):
+	print "distance:"+str(v)+" cm";
+
+if __name__ == '__main__':
+	bot = MegaPi()
+	bot.start()
+    port = 6
+	while 1:
+		sleep(0.1);
+		bot.ultrasonicSensorRead(port,onRead);
+```
+
+### 运行结果
+
