@@ -21,7 +21,6 @@
        * [指南针](compass.md)
        * [陀螺仪](gyro.md)
        * [电位器](potentiometer.md)
-       * [测量角度](measure_angle.md)
 * [第三章 电机驱动篇](chapter3.md)
    * [舵机](servo.md)
    * [直流电机](dc_motor.md)
