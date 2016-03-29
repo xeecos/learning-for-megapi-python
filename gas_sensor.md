@@ -18,7 +18,7 @@ bot.start()
 port = 6
 while 1:
     sleep(0.1)
-    bot.gaseSensorRead(port,onRead)
+    bot.gasSensorRead(port,onRead)
 ```
 ### 运行结果
 
