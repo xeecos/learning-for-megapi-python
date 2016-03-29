@@ -12,8 +12,15 @@
 from megapi import *
 
 def onRead(v):
-	print "line:"+str(v)
-
+	if v==0:
+      print "both are white"
+	if v==1:
+      print "left is white, right is black"
+	if v==2:
+      print "left is black, right is white"
+	if v==3:
+      print "both are black"
+      
 bot = MegaPi()
 bot.start()
 port = 6
