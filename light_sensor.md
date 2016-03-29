@@ -20,7 +20,7 @@ def onRead(v):
       print "left is black, right is white"
 	if v==3:
       print "both are black"
-      
+
 bot = MegaPi()
 bot.start()
 port = 6
