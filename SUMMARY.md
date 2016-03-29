@@ -39,6 +39,7 @@
    * [使用网络服务](internet_service.md)
    * [捕捉图像](capture_picture.md)
    * [使用OpenCV](using_opencv.md)
+   * 数据显示与存储
 * [第六篇 应用篇](chapter6.md)
    * [个人气象站](weather_station.md)
    * [视频小车](video_car.md)
