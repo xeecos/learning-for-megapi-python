@@ -18,12 +18,12 @@ bot = MegaPi()
 bot.start()
 
 def onRead(v):
-	print "distance:"+str(v)+" cm";
+	print "distance:"+str(v)+" cm"
     
 port = 6 
 while 1:
-    sleep(0.1);
-    bot.ultrasonicSensorRead(port,onRead);
+    sleep(0.1)
+    bot.ultrasonicSensorRead(port,onRead)
 
 ```
 
