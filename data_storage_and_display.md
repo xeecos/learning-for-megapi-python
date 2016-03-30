@@ -25,8 +25,6 @@ def onRead(temperature):
 lastValue = 0
 
 class PlotFigure(wx.Frame):
-    """Matplotlib wxFrame with animation effect"""
-
     def __init__(self):
         wx.Frame.__init__(self, None, wx.ID_ANY, title="Ultrasonic Sensor Monitor", size=(800, 600))
         self.bot = MegaPi()
