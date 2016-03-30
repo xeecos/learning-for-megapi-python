@@ -14,7 +14,7 @@ bot = MegaPi()
 bot.start()
 port = 6
 while 1:
-    sleep(0.1)
+    sleep(1)
     bot.temperatureSensorRead(port,onRead)
 ```
 ###运行结果
