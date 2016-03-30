@@ -42,7 +42,7 @@ class PlotFigure(wx.Frame):
         self.ax.grid(True)
         #设置网格标志
         self.user = [None] * POINTS
-        self.l_user,=self.ax.plot(range(POINTS),self.user,label='Distance - cm')
+        self.l_user,=self.ax.plot(range(POINTS),self.user,label='Temperature - C')
         self.ax.legend(loc='upper center',
                            ncol=4,
                            prop=font_manager.FontProperties(size=10))
