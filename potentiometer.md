@@ -28,7 +28,23 @@ while 1:
 ![joystick](joystick.jpg)
 ###Python 代码
 ```
+from megapi import *
 
+def onReadX(v):
+	print "axis X:"+str(v)
+    bot.joystickRead(port,axisY,onReadY)
+    
+def onReadY(v):
+	print "axis Y:"+str(v)
+
+bot = MegaPi()
+bot.start()
+port = 6
+axisX = 1
+axisY = 2
+while True:
+    sleep(0.2)
+    bot.joystickRead(port,axisX,onReadX)
 ```
 ###运行结果
 
