@@ -4,6 +4,30 @@
 ![encoder](encoder_motor.jpg)
 
 ### Python 代码
+移动相对位置
+```
+from megapi import *
+
+def onForwardFinish(slot):
+	sleep(0.4);
+	bot.encoderMotorMove(slot,100,-1000,onBackwardFinish);
+
+def onBackwardFinish(slot):
+	sleep(0.4);
+	print slot;
+	bot.encoderMotorMove(slot,100,1000,onForwardFinish);
+
+if __name__ == '__main__':
+	bot = MegaPi()
+	bot.start()
+    slot = 3
+	bot.encoderMotorRun(slot,0)
+	sleep(1);
+	onForwardFinish(slot);
+	while True:
+		continue;
+```
+移动绝对位置
 ```
 from megapi import *
 
