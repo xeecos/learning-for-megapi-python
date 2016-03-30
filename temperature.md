@@ -18,7 +18,7 @@ while 1:
     bot.temperatureSensorRead(port,onRead)
 ```
 ###运行结果
-
+![sample](temperature_sample.jpg)
 
 ###温湿度传感器
 ![humidity](humidity.jpg)
@@ -37,3 +37,4 @@ while 1:
     bot.humitureSensorRead(port,0,onRead)
 ```
 ###运行结果
+![](humiture.jpg)
