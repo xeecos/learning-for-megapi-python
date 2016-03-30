@@ -6,7 +6,7 @@ Matplotlib是一个Python的图形框架，它可以让我们采集到的大量�
 sudo apt-get install python-wxgtk2.8
 sudo pip install matplotlib numpy
 ```
-温度示例
+采集温度曲线示例
 ```
 #-*- coding: UTF-8 -*-
 import wx
