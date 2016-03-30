@@ -12,6 +12,7 @@
 ## 第二章 传感器篇
 ----
 测量物理世界
+
 1. [障碍物距离](ultrasonic_sensor.md)
 2. [光线强度](light_sensor.md)
 3. [声音强度](sound_sensor.md)
@@ -22,6 +23,7 @@
 
 ----
 测量姿态
+
 1. [指南针](compass.md)
 2. [3轴加速度计和陀螺仪](gyro.md)
 3. [电位器](potentiometer.md)
