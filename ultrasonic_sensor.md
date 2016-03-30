@@ -21,7 +21,7 @@ def onRead(v):
 	print "distance:"+str(v)+" cm"
     
 port = 6 
-while 1:
+while True:
     sleep(0.1)
     bot.ultrasonicSensorRead(port,onRead)
 
