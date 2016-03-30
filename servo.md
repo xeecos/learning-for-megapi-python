@@ -6,6 +6,8 @@
 ![](servo_9g.jpg)
 ###金属舵机
 ![](servo_metal.jpg)
+###连线
+
 ### Python 代码
 ```
 from megapi import *
