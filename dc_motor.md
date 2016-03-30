@@ -7,6 +7,21 @@
 ![130](dcmotor_130.jpg)
 ### Python 代码
 ```
+```
+from megapi import *
 
+bot = MegaPi()
+bot.start()
+slot = 1
+while True:
+    sleep(1)
+    bot.dcMotorRun(slot,80)
+    sleep(1)
+    bot.dcMotorRun(slot,0)
+    sleep(1)
+    bot.dcMotorRun(slot,-80)
+    sleep(1)
+    bot.dcMotorRun(slot,0)
+```
 ```
 ### 运行结果
