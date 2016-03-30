@@ -1,5 +1,5 @@
 # 安装硬件
-1.MegaPi烧写固件 https://github.com/Makeblock-official/FirmwareForMegaPi
+1.为MegaPi烧写固件 https://github.com/Makeblock-official/FirmwareForMegaPi
 
 2.将MegaPi焊接好串口排座后插入树莓派上，同时用铜螺柱固定。
 
