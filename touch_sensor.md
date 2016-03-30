@@ -5,6 +5,8 @@
 ### 触摸传感器
 ![touch](touch.jpg)
 
+###连线
+
 ### Python 代码
 ```
 from megapi import *
