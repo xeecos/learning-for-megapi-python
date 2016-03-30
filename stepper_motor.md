@@ -20,9 +20,10 @@ def onBackwardFinish():
 if __name__ == '__main__':
 	bot = MegaPi()
 	bot.start()
-	sleep(1);
-	bot.stepperSetting(1,4,5000);
-	bot.stepperStop(1);
+	sleep(1)
+    port = 1
+	bot.stepperSetting(port,4,5000);
+	bot.stepperStop(port);
 	onForwardFinish();
 	while True:
 		continue;
