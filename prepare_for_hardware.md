@@ -1,5 +1,6 @@
 # 安装硬件
-将MegaPi焊接好串口排座后插入树莓派上，同时用铜螺柱固定。
+1.将MegaPi焊接好串口排座后插入树莓派上，同时用铜螺柱固定。
+2.MegaPi烧写固件 https://github.com/Makeblock-official/FirmwareForMegaPi
 
 使用电源：
 
