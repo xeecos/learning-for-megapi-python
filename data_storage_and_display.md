@@ -26,14 +26,17 @@ lastValue = 0
 
 class PlotFigure(wx.Frame):
     def __init__(self):
-        wx.Frame.__init__(self, None, wx.ID_ANY, title="Ultrasonic Sensor Monitor", size=(800, 600))
+        wx.Frame.__init__(self, None, wx.ID_ANY, title="Temperature Sensor Monitor", size=(800, 600))
+        #设置窗口大小
         self.bot = MegaPi()
         self.bot.start()
+        #初始化MegaPi
         self.fig = Figure((8, 6), 100)
         self.canvas = FigureCanvas(self, wx.ID_ANY, self.fig)
         self.ax = self.fig.add_subplot(111)
         self.ax.set_ylim([0, 240])
         self.ax.set_xlim([0, POINTS])
+        #设置标志
         self.ax.set_autoscale_on(False)
         self.ax.set_xticks([])
         self.ax.set_yticks(range(0, 241, 10))
