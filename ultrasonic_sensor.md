@@ -28,5 +28,5 @@ while 1:
 ```
 
 ### 运行结果
-![sample2](ultrasonicSensor_sample2.jpg)
+![sample3](ultrasonicSensor_sample3.jpg)
 ![sample](detect_distance.jpg)
