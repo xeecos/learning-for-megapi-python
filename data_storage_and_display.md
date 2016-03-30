@@ -68,4 +68,6 @@ if __name__ == '__main__':
     frame.Show()
     app.MainLoop()
 ```
+###运行效果
+
 ###数据存储
