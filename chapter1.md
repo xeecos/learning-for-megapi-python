@@ -1,4 +1,5 @@
 # 第一章 准备工作
+---
 1. [准备树莓派和MegaPi](prepare.md)
 2. [安装操作系统](install_system.md)
 3. [如何联网](how_to_connect_the_internet.md)
