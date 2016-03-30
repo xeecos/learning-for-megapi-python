@@ -1,2 +1,2 @@
-# 7 segments display
+# 数码管
 
