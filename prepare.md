@@ -8,3 +8,5 @@
 树莓派基金会于2016年2月发布了树莓派3,较前一代树莓派2，树莓派3的处理器升级为了64位的博通BCM2837，并首次加入了Wi-Fi无线网络及蓝牙功能，而售价仍然是35美元。
 
 ![rpi2b](Raspberry_Pi_2_Model_B.jpg)
+###MegaPi
+MegaPi是一个基于AVR Mega2560的Arduino开发板变种。完全兼容Arduino编程。
