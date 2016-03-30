@@ -36,11 +36,11 @@ class PlotFigure(wx.Frame):
         self.ax = self.fig.add_subplot(111)
         self.ax.set_ylim([0, 240])
         self.ax.set_xlim([0, POINTS])
-        #设置标志
         self.ax.set_autoscale_on(False)
         self.ax.set_xticks([])
         self.ax.set_yticks(range(0, 241, 10))
         self.ax.grid(True)
+        #设置网格标志
         self.user = [None] * POINTS
         self.l_user,=self.ax.plot(range(POINTS),self.user,label='Distance - cm')
         self.ax.legend(loc='upper center',
