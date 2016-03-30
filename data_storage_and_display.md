@@ -53,7 +53,7 @@ class PlotFigure(wx.Frame):
         global lastValue
         self.canvas.restore_region(self.bg)
         temp =lastValue
-        self.bot.ultrasonicSensorRead(6,onRead)
+        self.bot.temperatureSensorRead(6,1,onRead)
         self.user = self.user[1:] + [temp]
         self.l_user.set_ydata(self.user)
         self.ax.draw_artist(self.l_user)
