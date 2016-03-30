@@ -5,6 +5,8 @@
 ### 声音传感器
 ![sound](sound.jpg)
 
+###连线
+
 ### Python 代码
 ```
 from megapi import *
