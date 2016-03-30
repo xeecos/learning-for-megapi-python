@@ -27,10 +27,4 @@ while 1:
 ```
 
 ### 运行结果
-```
-distance:4.554654324 cm
-distance:5.57654565 cm
-distance:5.184354657 cm
-distance:7.89434556 cm
-distance:27.45568232 cm
-```
+![sample](ultrasonicSensor_sample.jpg)
