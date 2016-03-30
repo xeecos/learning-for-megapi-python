@@ -2,7 +2,7 @@
 
 LED矩阵屏的基本单元是发光二极管，数百个发光二极管形成一个的LED点阵，每一个发光二极管组成屏幕的一个单色像素。
 ###LED矩阵屏
-![seven](sevensegment.jpg)
+![ledmatrix](ledmatrix.jpg)
 ###连线
 
 ###Python 代码
