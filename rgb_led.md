@@ -5,3 +5,10 @@
 ###RGB灯带
 ![strip](rgbledstrip.jpg)
 
+###连线
+
+###Python 代码
+```
+
+```
+###运行结果
