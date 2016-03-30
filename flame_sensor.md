@@ -5,6 +5,8 @@
 ### 火焰传感器
 ![flame](flame.jpg)
 
+###连线
+
 ### Python 代码
 ```
 from megapi import *
