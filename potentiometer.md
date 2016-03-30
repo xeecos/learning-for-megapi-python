@@ -34,3 +34,18 @@ while 1:
 
 ###角度传感器
 ![angular](angular.jpg)
+### Python 代码
+```
+from megapi import *
+
+def onRead(v):
+	print "angular:"+str(v)
+
+bot = MegaPi()
+bot.start()
+port = 6
+slot = 1
+while True:
+    sleep(0.1)
+    bot.angularSensorRead(port,slot,onRead)
+```
