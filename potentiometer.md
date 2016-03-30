@@ -7,7 +7,17 @@
 ![slider](slider_potentiometer.jpg)
 ###Python 代码
 ```
+from megapi import *
 
+def onRead(v):
+	print "value:"+str(v)
+
+bot = MegaPi()
+bot.start()
+port = 6
+while 1:
+    sleep(0.1)
+    bot.potentiometerRead(port,onRead)
 ```
 ###运行结果
 ![sample](potentiometer_sample.jpg)
