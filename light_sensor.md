@@ -24,8 +24,33 @@ def onRead(v):
 bot = MegaPi()
 bot.start()
 port = 6
-while 1:
+while True:
     sleep(0.1)
     bot.lineFollowerRead(port,onRead)
 ```
 ### 运行结果
+
+### 光线传感器
+
+### Python代码
+```
+from megapi import *
+
+def onRead(v):
+	if v==0:
+      print "both are white"
+	if v==1:
+      print "left is white, right is black"
+	if v==2:
+      print "left is black, right is white"
+	if v==3:
+      print "both are black"
+
+bot = MegaPi()
+bot.start()
+port = 6
+while True:
+    sleep(0.1)
+    bot.lineFollowerRead(port,onRead)
+```
+```
