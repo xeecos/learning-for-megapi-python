@@ -10,6 +10,8 @@
 ![ultrasonic](ultrasonic.jpg)
 
 
+###连线
+
 ### Python代码
 ```
 from megapi import *
