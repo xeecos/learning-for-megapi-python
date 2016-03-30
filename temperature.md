@@ -24,7 +24,6 @@ while 1:
 ![humidity](humidity.jpg)
 ###Python 代码
 ```
-```
 from megapi import *
 
 def onRead(v):
@@ -36,6 +35,5 @@ port = 6
 while 1:
     sleep(1)
     bot.humitureSensorRead(port,0,onRead)
-```
 ```
 ###运行结果
