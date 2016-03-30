@@ -5,6 +5,8 @@
 ![dcmotor](dcmotor.jpg)
 ###130小电机
 ![130](dcmotor_130.jpg)
+###连线
+
 ### Python 代码
 ```
 from megapi import *
