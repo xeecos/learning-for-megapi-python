@@ -3,6 +3,8 @@
 ###直流编码电机
 ![encoder](encoder_motor.jpg)
 
+###连线
+
 ### Python 代码
 **移动相对位置**
 ```
