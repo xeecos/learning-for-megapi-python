@@ -69,5 +69,5 @@ if __name__ == '__main__':
     app.MainLoop()
 ```
 ###运行效果
-
+![sample](temperature_sample.jpg)
 ###数据存储
