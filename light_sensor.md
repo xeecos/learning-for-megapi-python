@@ -31,7 +31,7 @@ while True:
 ### 运行结果
 
 ### 光线传感器
-
+![light](lightsensor.jpg)
 ### Python代码
 ```
 from megapi import *
