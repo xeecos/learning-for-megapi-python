@@ -3,6 +3,8 @@
 ###步进电机
 ![stepper](stepper_motor.jpg)
 
+###连线
+
 ###Python 代码
 ```
 
