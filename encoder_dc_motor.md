@@ -4,7 +4,7 @@
 ![encoder](encoder_motor.jpg)
 
 ### Python 代码
-移动相对位置
+**移动相对位置**
 ```
 from megapi import *
 
@@ -27,7 +27,7 @@ if __name__ == '__main__':
 	while True:
 		continue;
 ```
-移动绝对位置
+**移动绝对位置**
 ```
 from megapi import *
 
