@@ -8,6 +8,16 @@
 ![](servo_metal.jpg)
 ### Python 代码
 ```
+from megapi import *
 
+bot = MegaPi()
+bot.start()
+port = 6
+slot = 1
+while True:
+    sleep(1)
+    bot.servoRun(port,slot,80)
+    sleep(1)
+    bot.servoRun(port,slot,120)
 ```
 ### 运行结果
