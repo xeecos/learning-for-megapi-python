@@ -24,6 +24,8 @@ while 1:
 
 ###温湿度传感器
 ![humidity](humidity.jpg)
+###连线
+
 ###Python 代码
 ```
 from megapi import *
