@@ -28,6 +28,8 @@ while True:
 摇杆内部包含2个电位器，通过机械旋转的角度改变电位器的阻值，从而单片机可以通过阻值获取摇杆所处的位置。
 
 ![joystick](joystick.jpg)
+###连线
+
 ###Python 代码
 ```
 from megapi import *
