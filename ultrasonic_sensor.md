@@ -9,6 +9,7 @@
 
 ![ultrasonic](ultrasonic.jpg)
 
+
 ### Python代码
 ```
 from megapi import *
@@ -28,3 +29,4 @@ while 1:
 
 ### 运行结果
 ![sample](ultrasonicSensor_sample.jpg)
+![sample](detect_distance.jpg)
