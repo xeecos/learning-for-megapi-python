@@ -10,7 +10,7 @@
 ###运行结果
 
 
-###湿度传感器
+###温湿度传感器
 ![humidity](humidity.jpg)
 ###Python 代码
 ```
