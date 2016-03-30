@@ -15,12 +15,12 @@ import matplotlib.font_manager as font_manager
 import numpy as np
 from megapi import *
 from matplotlib.backends.backend_wxagg import  FigureCanvasWxAgg as FigureCanvas
+
 TIMER_ID = wx.NewId()
 POINTS = 300
-def onRead(v):
+def onRead(temperature):
   global lastValue
-  lastValue = v
-  print 'distance:'+str(v)+' cm'
+  lastValue = temperature
   
 lastValue = 0
 
