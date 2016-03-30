@@ -5,6 +5,8 @@
 ![potentiometer](potentiometer.jpg)
 ###滑动变阻器
 ![slider](slider_potentiometer.jpg)
+###连线
+
 ###Python 代码
 ```
 from megapi import *
