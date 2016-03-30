@@ -71,3 +71,17 @@ if __name__ == '__main__':
 ###运行效果
 ![sample](temperature_sample.jpg)
 ###数据存储
+```
+from megapi import *
+import time
+def onRead(v):
+  f.write( time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))+' '+str(v)+' C\n')
+  
+lastValue = 0
+f = open('result.txt','wb')
+bot = MegaPi()
+bot.start()
+while True:
+    bot.humitureSensorRead(6,1,onRead)
+    sleep(2)
+```
