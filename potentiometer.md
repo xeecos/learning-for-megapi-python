@@ -15,7 +15,7 @@ def onRead(v):
 bot = MegaPi()
 bot.start()
 port = 6
-while 1:
+while True:
     sleep(0.1)
     bot.potentiometerRead(port,onRead)
 ```
