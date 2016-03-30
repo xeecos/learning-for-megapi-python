@@ -71,7 +71,7 @@ if __name__ == '__main__':
 ###运行效果
 ![sample](temperature_sample.jpg)
 ###数据存储
-最直接的数据存储方法就是直接将文本写在本地硬盘上。以下示例使用open和write方法实现将采集的数据写在本地文本文件中。
+最简单的数据存储方法就是直接将文本写在本地硬盘上。我们也可以使用数据库进行持久化存储。以下示例使用open和write方法实现将采集的数据写在本地文本文件中。
 ```
 from megapi import *
 import time
