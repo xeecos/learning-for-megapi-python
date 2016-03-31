@@ -14,6 +14,6 @@ bot = MegaPi()
 bot.start()
 while True:
     bot.humitureSensorRead(port, 1, onRead)
-    sleep(5)
+    sleep(10)
 ```
 在https://data.sparkfun.com/streams/Jxyjr7DmxwTD5dG1D1Kv 可以访问已上报的数据。
