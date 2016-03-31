@@ -26,6 +26,7 @@ while True:
 ```
 ###运行效果
 ![camera](camera_show.jpg)
+
 ---
 ###获取像素的颜色
 ```
