@@ -28,7 +28,7 @@ while True:
 ![camera](camera_show.jpg)
 
 ---
-###获取像素的颜色
+###获取图片任意像素的颜色
 ```
 image = cam.get_image()
 x = 100
