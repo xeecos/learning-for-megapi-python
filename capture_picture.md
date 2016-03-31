@@ -46,3 +46,4 @@ print color
 ```
 pygame.image.save(windowSurfaceObj,'picture.jpg')
 ```
+将在命令所在文件夹保存一张JPG格式的图片
