@@ -1,8 +1,6 @@
 # 使用摄像头
 准备一个USB摄像头，将摄像头插在树莓派的USB口上。
 执行```ls /dev/video*```查看是否已出现摄像头设备。
-###捕捉图像
-
 ###显示图像
 ```
 import os
@@ -25,4 +23,10 @@ while True:
     catSurfaceObj = image
     windowSurfaceObj.blit(catSurfaceObj,(0,0))
     pygame.display.update()
+```
+###运行效果
+![camera](camera_show.jpg)
+###捕捉图像
+```
+
 ```
