@@ -28,5 +28,5 @@ while True:
 ![camera](camera_show.jpg)
 ###捕捉图像
 ```
-
+pygame.image.save(windowSurfaceObj,'picture.jpg')
 ```
