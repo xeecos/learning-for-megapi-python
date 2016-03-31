@@ -1,2 +1,2 @@
-# capture picture
+# 使用摄像头
 
