@@ -26,6 +26,19 @@ while True:
 ```
 ###运行效果
 ![camera](camera_show.jpg)
+###获取像素的颜色
+```
+image = cam.get_image()
+x = 100
+y = 120
+color = image.get_at((x,y))
+print color
+#(R, G, B, Alpha)
+```
+###运行结果
+```
+(65, 61, 76, 255)
+```
 ###捕捉图像
 ```
 pygame.image.save(windowSurfaceObj,'picture.jpg')
