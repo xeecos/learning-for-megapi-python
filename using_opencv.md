@@ -42,7 +42,7 @@ if __name__ == '__main__':
     cv2.destroyAllWindows()
 ```
 ###运行结果
-
+![display](camera_display.jpg)
 ###人脸识别
 
 ###视频直播
