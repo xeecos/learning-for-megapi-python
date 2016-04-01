@@ -16,6 +16,16 @@ cv2.imshow("Image", img)
 cv2.waitKey (0)  
 cv2.destroyAllWindows()  
 ```
+###获取像素信息
+```
+import cv2   
+
+img = cv2.imread("picture.jpg")   
+x = 100
+y = 120
+print img[x,y,0],img[x,y,1],img[x,y,2]
+#Blue, Green, Red 
+```
 ###调用摄像头
 
 ###人脸识别
