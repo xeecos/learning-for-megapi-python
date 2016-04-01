@@ -28,12 +28,11 @@ y = 120
 print img[x,y,0],img[x,y,1],img[x,y,2]
 #Blue, Green, Red 
 ```
-###调用摄像头
+###调用摄像头并显示图像
 ```
 import cv2
 if __name__ == '__main__':
     cam = cv2.VideoCapture(0)
-    print cam
     while True:
         ret, img = cam.read()
         cv2.imshow('camera', img)
