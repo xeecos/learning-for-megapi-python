@@ -47,3 +47,4 @@ print color
 ```
 pygame.image.save(windowSurfaceObj,'picture.jpg')
 ```
+###视频直播
