@@ -5,7 +5,6 @@ OpenCV在人机互动、物体识别、图像分割、人脸识别、动作识�
 ```
 sudo apt-get install python-opencv
 ```
-
 ###调用摄像头
 
 ###人脸识别
