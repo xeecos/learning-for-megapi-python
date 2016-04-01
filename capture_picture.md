@@ -53,3 +53,4 @@ git clone https://github.com/xeecos/live-video-for-python-based-on-rpi
 sudo pip install flask
 python main.py
 ```
+在浏览器中访问http://localhost:5000/
