@@ -48,3 +48,8 @@ print color
 pygame.image.save(windowSurfaceObj,'picture.jpg')
 ```
 ###视频直播
+```
+git clone https://github.com/xeecos/live-video-for-python-based-on-rpi
+sudo pip install flask
+python main.py
+```
