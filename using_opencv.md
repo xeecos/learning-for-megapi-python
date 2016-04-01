@@ -3,11 +3,11 @@ OpenCV的全称是：Open Source Computer Vision Library。OpenCV是一个基于
 
 OpenCV在人机互动、物体识别、图像分割、人脸识别、动作识别、运动跟踪、运动分析、机器视觉、结构分析、汽车安全驾驶等领域有广泛应用。
 
-OpenCV-Python 在线教程：http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html
 ###安装OpenCV
 ```
 sudo apt-get install python-opencv
 ```
+OpenCV-Python 在线教程：http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html
 ###显示图像
 ```
 import cv2   
