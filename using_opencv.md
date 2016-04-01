@@ -29,7 +29,19 @@ print img[x,y,0],img[x,y,1],img[x,y,2]
 #Blue, Green, Red 
 ```
 ###调用摄像头
-
+```
+import cv2
+if __name__ == '__main__':
+    cam = cv2.VideoCapture(0)
+    print cam
+    while True:
+        ret, img = cam.read()
+        cv2.imshow('camera', img)
+        if cv2.waitKey(5)==27:
+            break #Press ESC to quit
+    cam.release()
+    cv2.destroyAllWindows()
+```
 ###人脸识别
 
 ###视频直播
