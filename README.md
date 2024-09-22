@@ -27,6 +27,7 @@
 1. [指南针](compass.md)
 2. [3轴加速度计和陀螺仪](gyro.md)
 3. [电位器](potentiometer.md)
+4. [霍尔传感器](hall.md)
 
 ### 第三章 电机驱动篇
 ---
