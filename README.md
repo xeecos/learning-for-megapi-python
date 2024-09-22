@@ -44,7 +44,7 @@
 3. [RGB LED](rgb_led.md)
 4. [串口液晶屏](lcd.md)
 
-###第五章 扩展篇
+### 第五章 扩展篇
 ---
 1. [数据显示与存储](data_storage_and_display.md)
 2. [使用网络服务](internet_service.md)
